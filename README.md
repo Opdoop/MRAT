@@ -1,7 +1,7 @@
 # MRAT
 
 This is the source code for the paper `Robust Neural Text Classification and Entailment via Mixup
-Regularized Adversarial Training` (MRAT).
+Regularized Adversarial Training` (MRAT). In Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR ’21).  [[link](https://dl.acm.org/doi/10.1145/3404835.3463122)]
 
 ## Setup
 
@@ -19,7 +19,7 @@ Regularized Adversarial Training` (MRAT).
    * Download 1k split datasets of `mr` and `snli`  from [url](https://github.com/jind11/TextFooler/tree/master/data).
    * Put `mr` and `snli` to `attack/data` .
 
-* [Optional] For ease of replication, we shared `adversarial examples` and `trained BERT model` on each dataset we used. Details see [here](outputs/readme.md).
+* [Optional] For ease of replication, we shared `adversarial examples` and `trained BERT model`. Details see [here](outputs/readme.md).
 
 ## Usage
 
